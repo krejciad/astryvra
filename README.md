@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="branding/astryvra_endine_logo_name.svg" width="600" alt="Astryvra Engine Logo">
+  <img src="branding/astryvra_engine_logo_name.svg" width="600" alt="Astryvra Engine Logo">
 </p>
 
 # Astryvra Engine
